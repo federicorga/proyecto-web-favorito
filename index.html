@@ -1,0 +1,95 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous" />
+    <title>Favoritos Web</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <section>
+                <div class="logo">
+                    <img src="img/Archivo-general.png" alt="logoArchivos" width="80px" />
+                </div>
+                <div class="navMenu">
+                    <ul class="ulNavMenu">
+                        <li>
+                            <div id="btnTodo" type="button">
+                                <img src="img/iconNavBar/icon-todos.png" alt="" width="25px" />Todos
+                            </div>
+                        </li>
+                        <li>
+                            <div id="btnDocs" type="button">
+                                <img src="img/iconNavBar/icon-docs.png" alt="" width="20px" />Docs
+                            </div>
+                        </li>
+                        <li>
+                            <div id="btnHerra" type="button">
+                                <img src="img/iconNavBar/icon-herra.png" alt="" width="25px" />Herramientas
+                            </div>
+                        </li>
+                        <li>
+                            <div id="btnJs" type="button">
+                                <img src="img/iconNavBar/icon-js.png" alt="" width="25px" />JavaScript
+                            </div>
+                        </li>
+                        <li>
+                            <div id="btnCss" type="button">
+                                <img src="img/iconNavBar/icon-css.png" alt="" width="20px" />CSS
+                            </div>
+                        </li>
+                        <li>
+                            <div id="btnReact" type="button">
+                                <img src="img/iconNavBar/icon-react.png" alt="" width="30px" />React
+                            </div>
+                        </li>
+                        <li>
+                            <div id="btnGit" type="button">
+                                <img src="img/iconNavBar/icon-git.webp" alt="" width="35px" />GIT/GITHUB
+                            </div>
+                        </li>
+                        <li>
+                            <div id="btnBd" type="button">
+                                <img src="img/iconNavBar/icon-bd.png" alt="" width="30px" />BD
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+
+            <section>
+                <div class="ContenedorBarraBusqueda">
+                    <input type="text" id="barraBuscador" class="form-control my-2 barraBuscador"
+                        placeholder="Buscar..." />
+                </div>
+            </section>
+        </nav>
+    </header>
+
+    <main>
+        <div id="buscador" class="buscador"></div>
+
+        <div id="contentCards" class="contentCards"></div>
+    </main>
+
+    <footer></footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+        crossorigin="anonymous"></script>
+
+    <script src="js/conectToJson.js"></script>
+    <script src="js/searcher.js"></script>
+    <script src="js/filterNavBar.js"></script>
+    <script src="js/rendered.js"></script>
+    <script src="js/main.js"></script>
+
+</body>
+
+</html>

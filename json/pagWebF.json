@@ -1,0 +1,605 @@
+[
+    {
+        "id": 0,
+        "nameWeb": "HTML- Documentación Oficial",
+        "link": "https://developer.mozilla.org/es/docs/Web/HTML",
+        "category": "Documentacion",
+        "subCategory": "HTML",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Lenguaje de etiquetas de hipertexto"
+    },
+    {
+        "id": 1,
+        "nameWeb": "CSS- Documentación Oficial",
+        "link": "https://developer.mozilla.org/es/docs/Learn/CSS",
+        "category": "Documentacion",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Hojas de Estilo en Cascada "
+    },
+    {
+        "id": 2,
+        "nameWeb": "JavaScript- Documentación Oficial",
+        "link": "https://developer.mozilla.org/es/docs/Learn/JavaScript",
+        "category": "Documentacion",
+        "subCategory": "JavaScript",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Lenguaje de programación interpretado (convierten su lenguaje al de la máquina a medida que ejecutan el código)"
+    },
+    {
+        "id": 3,
+        "nameWeb": "TypeScript- Documentación Oficial",
+        "link": "https://www.typescriptlang.org/es/docs/",
+        "category": "Documentacion",
+        "subCategory": "TypeScript",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "TypeScript es un lenguaje de programación fuertemente escrito que se basa en JavaScript, que le brinda mejores herramientas a cualquier escala."
+    },
+    {
+        "id": 4,
+        "nameWeb": "Pagina NodeJs + Documentación Oficial",
+        "link": "https://nodejs.org/es/",
+        "category": "Documentacion",
+        "subCategory": "JavaScript",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Se trata de un entorno de código abierto (open source), multiplataforma, que ejecuta el código JavaScript fuera de un navegador."
+    },
+    {
+        "id": 5,
+        "nameWeb": "JSX - Documentación Oficial",
+        "link": "https://es.reactjs.org/docs/jsx-in-depth.html#gatsby-focus-wrapper",
+        "category": "Documentacion",
+        "subCategory": "React",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "JSX es una extensión de la sintaxis del lenguaje JavaScript que proporciona una forma de estructurar la representación de componentes utilizando una sintaxis familiar para muchos desarrolladores que se usa comúnmente en React. Es similar en apariencia a HTML."
+    },
+    {
+        "id": 6,
+        "nameWeb": "REACTJS- Documentación Oficial",
+        "link": "https://es.reactjs.org/",
+        "category": "Documentacion",
+        "subCategory": "React",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Una biblioteca de JavaScript para construir interfaces de usuario"
+    },
+    {
+        "id": 7,
+        "nameWeb": "Boostrap- Documentación Oficial",
+        "link": "https://getbootstrap.com/",
+        "category": "Documentacion",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Kit de herramientas frontal potente, ampliable y repleto de funciones. Cree y personalice con Sass, utilice el sistema de grillas y los componentes prediseñados y haga que los proyectos cobren vida con potentes complementos de JavaScript."
+    },
+    {
+        "id": 8,
+        "nameWeb": "SASS- Documentación Oficial",
+        "link": "https://sass-lang.com/",
+        "category": "Documentacion",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "SASS es el lenguaje de extensión CSS de grado profesional más maduro, estable y potente  del mundo"
+    },
+    {
+        "id": 9,
+        "nameWeb": "NPM Documentación + Paquetes para descargar",
+        "link": "https://www.npmjs.com/",
+        "category": "Documentacion",
+        "subCategory": "JavaScript",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "  Node Package Manager Sistema de gestión de paquetes por defecto para Node.js, un entorno de ejecución para JavaScript"
+    },
+    {
+        "id": 10,
+        "nameWeb": "Firebase Documentación + Firestore BD noSQL",
+        "link": "https://firebase.google.com/docs?hl=es-419",
+        "category": "Documentacion",
+        "subCategory": "BD",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Firebase es una plataforma de desarrollo de apps que te ayuda a compilar y desarrollar las apps y los juegos que les encantan a los usuarios. Con el respaldo de Google y la confianza de millones de empresas de todo el mundo..Cloud Firestore es una base de datos de documentos NoSQL que permite almacenar, sincronizar y consultar fácilmente datos en tus apps web y para dispositivos móviles a escala global."
+    },
+    {
+        "id": 11,
+        "nameWeb": "Google Fonts",
+        "link": "https://fonts.google.com/",
+        "category": "Herramienta",
+        "subCategory": "HTML",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Directorio de Fuentes Libres de Google."
+    },
+    {
+        "id": 12,
+        "nameWeb": "Coolors- Generador Paletas de colores para Web",
+        "link": "https://coolors.co/",
+        "category": "Herramienta",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Generador de paletas de colores para web."
+    },
+    {
+        "id": 13,
+        "nameWeb": "Balsamiq",
+        "link": "https://balsamiq.cloud/#",
+        "category": "Herramienta",
+        "subCategory": "HTML",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Bocetos de interfaz de usuario sin esfuerzo"
+    },
+    {
+        "id": 14,
+        "nameWeb": "CssReferencia",
+        "link": "https://cssreference.io/",
+        "category": "Documentacion",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Guía visual gratuita de CSS. Cuenta con los más populares propiedades, y los explica con ilustrado y animado ejemplos."
+    },
+    {
+        "id": 15,
+        "nameWeb": "CSS Generador Visual",
+        "link": "https://cssgenerator.org/",
+        "category": "Herramienta",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Un generador Visual CSS que lo ayuda a demostrar y generar rápidamente declaraciones CSS para su sitio web. Viene con muchas herramientas generadoras -Box Shadow"
+    },
+    {
+        "id": 16,
+        "nameWeb": "PNGIMG",
+        "link": "https://pngimg.es/",
+        "category": "Herramienta",
+        "subCategory": "HTML",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Imágnes PNG e imágenes prediseñadas para diseño web"
+    },
+    {
+        "id": 17,
+        "nameWeb": "CSS Gradients Generador",
+        "link": "https://cssgradient.io/",
+        "category": "Herramienta",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "CSS Gradient es un sitio web y una herramienta gratuita que le permite crear un fondo de degradado para sitios web. "
+    },
+    {
+        "id": 18,
+        "nameWeb": "CSS - Degradados de Color",
+        "link": "https://www.awwwards.com/ejemplos-de-degradados-de-color-en-el-diseno-web.html",
+        "category": "Herramienta",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Ejemplos de degradados de color multiples, varios diseños. "
+    },
+    {
+        "id": 19,
+        "nameWeb": "AOS - Animate On Scroll Library",
+        "link": "https://michalsnik.github.io/aos/",
+        "category": "Herramienta",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Libreria de animaciones de desplazamiento"
+    },
+    {
+        "id": 20,
+        "nameWeb": "Animate.css",
+        "link": "https://animate.style/",
+        "category": "Herramienta",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "es una biblioteca de animaciones de navegador cruzado listas para usar para usar en sus proyectos web. Ideal para el énfasis, páginas de inicio, controles deslizantes y sugerencias que guían la atención"
+    },
+    {
+        "id": 21,
+        "nameWeb": "html-css-js Generador",
+        "link": "https://html-css-js.com/css/generator/",
+        "category": "Herramienta",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Mega pagina editor con vista previa instantánea util para armar textos en CSS, sobras y otras cosas html y JS."
+    },
+    {
+        "id": 22,
+        "nameWeb": "GIT - Documentacion Oficial",
+        "link": "https://git-scm.com/",
+        "category": "Documentacion",
+        "subCategory": "GIT",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Git es un libre y de código abierto sistema de control de versión distribuido diseñado para manejar todo, desde pequeño hasta proyectos muy grandes con velocidad y eficiencia."
+    },
+    {
+        "id": 23,
+        "nameWeb": "GIT - Comandos",
+        "link": "https://www.freecodecamp.org/espanol/news/10-comandos-de-git-que-todo-desarrollador-deberia-saber/",
+        "category": "Herramienta",
+        "subCategory": "GIT",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "10 Comandos de Git Que Todo Desarrollador Debería Saber"
+    },
+    {
+        "id": 24,
+        "nameWeb": "Free Front-End coleccion",
+        "link": "https://freefrontend.com/",
+        "category": "Herramienta",
+        "subCategory": "HTML",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Coleccion libre de codigo Js, estilos CSS, Formularios modelos, etc"
+    },
+    {
+        "id": 25,
+        "nameWeb": "ILoveIMG",
+        "link": "https://www.iloveimg.com/es",
+        "category": "Herramienta",
+        "subCategory": "HTML",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Herramientas online para la edición de imágenes"
+    },
+    {
+        "id": 26,
+        "nameWeb": "Bootstrap 5 CheatSheet",
+        "link": "https://bootstrap-cheatsheet.themeselection.com/",
+        "category": "Herramienta",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Una lista interactiva de Bootstrap 5 clases, variables, y mixins. 🎁 La única hoja de trucos Bootstrap 5 que necesitará. 🎊"
+    },
+    {
+        "id": 27,
+        "nameWeb": "BootstrapMade - Plantillas de bootstrap gratis",
+        "link": "https://bootstrapmade.com/",
+        "category": "Herramienta",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Creamos plantillas y temas gratuitos limpios, elegantes y hermosos en el sitio web utilizando Bootstrap, el marco HTML, CSS y JavaScript más popular"
+    },
+    {
+        "id": 28,
+        "nameWeb": "Bootswatch - Temas Gratis para Boostrap",
+        "link": "https://bootswatch.com/",
+        "category": "Herramienta",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Temas gratis para Bootstrap"
+    },
+    {
+        "id": 29,
+        "nameWeb": "Organizar los archivos Sass de tu proyecto",
+        "link": "https://latteandcode.medium.com/c%C3%B3mo-organizar-los-archivos-sass-de-tu-proyecto-c8b02242d95",
+        "category": "Herramienta",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Cómo organizar los archivos Sass de tu proyecto"
+    },
+    {
+        "id": 30,
+        "nameWeb": "HTTP-ARCHIVO Web Informativa Util",
+        "link": "https://httparchive.org/",
+        "category": "Documentacion",
+        "subCategory": "HTML",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Archivo HTTP Pistas Cómo Web está construido. Peso de Imagenes, APIS, Archivos, etc"
+    },
+    {
+        "id": 31,
+        "nameWeb": "Tinyjpg - Compresor de Imagen",
+        "link": "https://tinyjpg.com/",
+        "category": "Herramienta",
+        "subCategory": "HTML",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Inteligente WebP, JPEG y PNG compresión"
+    },
+    {
+        "id": 32,
+        "nameWeb": "Freepik - Imagenes y diseños",
+        "link": "https://www.freepik.com/",
+        "category": "Herramienta",
+        "subCategory": "HTML",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Todos los activos que necesita, en un solo lugar Encuentra y descarga las mejores fotos, diseños y maquetas de alta calidad."
+    },
+    {
+        "id": 33,
+        "nameWeb": "xml-sitemaps Creador de Mapa de Sitio Web",
+        "link": "https://www.xml-sitemaps.com/",
+        "category": "Herramienta",
+        "subCategory": "HTML",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Ingrese la URL de su sitio web para crear un mapa del sitio. Cree un mapa de sitio XML que se puede envidiar a Google, Bing y otros motivos de negocio para ayudarlos a rastrear mejor su sitio web."
+    },
+    {
+        "id": 34,
+        "nameWeb": "Css-tricks",
+        "link": "https://css-tricks.com/",
+        "category": "Herramienta",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Un enfoque para cargar elementos personalizados de carga perezosa"
+    },
+    {
+        "id": 35,
+        "nameWeb": "FileZilla - Servidor para Pagina web",
+        "link": "https://filezilla-project.org/",
+        "category": "Documentacion",
+        "subCategory": "HTML",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Servidor FileZilla es un servidor FTP y FTPS de código abierto gratuito, Permite subir Paginas Web a la red con una aplicacion"
+    },
+    {
+        "id": 36,
+        "nameWeb": "000WebHost -Hosting gratuito para Pagina web",
+        "link": "https://ar.000webhost.com/",
+        "category": "herramietna",
+        "subCategory": "HTML",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Pagina de Host Gratiuto para subir tu pagina web"
+    },
+    {
+        "id": 37,
+        "nameWeb": "Netlify",
+        "link": "https://www.netlify.com/",
+        "category": "herramienta",
+        "subCategory": "GIT",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Host gratiuto de paginas subidas a Github"
+    },
+    {
+        "id": 38,
+        "nameWeb": "GITHUB- Documentacion Oficial",
+        "link": "https://docs.github.com/es",
+        "category": "Documentacion",
+        "subCategory": "GIT",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Sito para alojar proyectos utilizando el sistema de control de versiones Git."
+    },
+    {
+        "id": 39,
+        "nameWeb": "ResizePixel - cambiar tamaño de imagenes",
+        "link": "https://www.resizepixel.com/es/resize-image/",
+        "category": "herramienta",
+        "subCategory": "HTML",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Cambiar tamaño de imagen online JPG, PNG, WEBP, GIF, BMP, TIFF"
+    },
+    {
+        "id": 40,
+        "nameWeb": "Validador de Nombre de Variables",
+        "link": "https://mothereff.in/js-variables",
+        "category": "herramienta",
+        "subCategory": "JavaScript",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "¿Se pregunta si puede usar una cadena dada como nombre de variable en JavaScript? Aprende cómo funciona, o simplemente use esta herramienta."
+    },
+    {
+        "id": 41,
+        "nameWeb": "javascript.info",
+        "link": "https://es.javascript.info/",
+        "category": "Documentacion",
+        "subCategory": "JavaScript",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "El Tutorial de JavaScript Moderno Cómo se hace ahora. Desde lo básico hasta temas avanzados con explicaciones simples pero detalladas."
+    },
+    {
+        "id": 42,
+        "nameWeb": "Tailwindcs- Similar Boostrap ",
+        "link": "https://tailwindcss.com/",
+        "category": "Herramienta",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Un marco CSS de utilidad primero repleto de clases como,,y flex pt-4 text-center rotate-90 que puede estar compuesto para construir cualquier diseño, directamente en su marcado."
+    },
+    {
+        "id": 43,
+        "nameWeb": "hype4.academy - CSS",
+        "link": "https://hype4.academy/tools/glassmorphism-generator",
+        "category": "Herramienta",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Libros, cursos y materiales gratuitos y pagados para que usted aumente sus habilidades en poco tiempo!"
+    },
+    {
+        "id": 44,
+        "nameWeb": "Eggradientes - CSS",
+        "link": "https://www.eggradients.com/",
+        "category": "Herramienta",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "GRADIENTE ANTECEDENTES COLORES"
+    },
+    {
+        "id": 45,
+        "nameWeb": "Cloud Table - Creador de Tablas, Paginacion, Busqueda Instantanea",
+        "link": "https://datatables.net/",
+        "category": "Herramienta",
+        "subCategory": "JavaScript",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Agregar controles de interacción avanzados a sus tablas HTML la manera libre y fácil"
+    },
+    {
+        "id": 46,
+        "nameWeb": "Minificador de codigo - Comprimir Codigo",
+        "link": "https://www.useotools.com/es/minify-js",
+        "category": "Herramienta",
+        "subCategory": "JavaScript",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "está diseñada para comprimir muchos archivos JS"
+    },
+    {
+        "id": 47,
+        "nameWeb": "SweetAlert2",
+        "link": "https://sweetalert2.github.io/",
+        "category": "Herramienta",
+        "subCategory": "JavaScript",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Un reemplazo hermoso, receptivo, personalizable y accesible ( wai-aria ) para las cajas emergentes de javascript"
+    },
+    {
+        "id": 48,
+        "nameWeb": "AnimeJs - Animaciones javascript",
+        "link": "https://animejs.com/",
+        "category": "Herramienta",
+        "subCategory": "JavaScript",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Anime.js es una biblioteca ligera de animación de JavaScript con una API simple pero potente. Funciona con propiedades CSS, SVG, atributos DOM y objetos JavaScript."
+    },
+    {
+        "id": 49,
+        "nameWeb": "LatenFlip - Pila de llamadas",
+        "link": "http://latentflip.com/loupe/",
+        "category": "Herramienta",
+        "subCategory": "JavaScript",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Loupe es una pequeña visualización para ayudarlo a comprender cómo interactúan entre sí la pila de llamadas / ciclo de eventos / cola de devolución de llamada de JavaScript."
+    },
+    {
+        "id": 50,
+        "nameWeb": "CSS3 Generator",
+        "link": "https://css3generator.com/",
+        "category": "Herramienta",
+        "subCategory": "JavaScript",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Pagina para generar Box Shadown, transiciones, flex y copiar codigo"
+    },
+    {
+        "id": 51,
+        "nameWeb": "jsonplaceholde - API falsas y gratuitas Modelo",
+        "link": "https://jsonplaceholder.typicode.com/",
+        "category": "Herramienta",
+        "subCategory": "BD",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "API falsa gratuita para pruebas y creación de prototipos. Desarrollado por Servidor JSON + Bajo DB. Probado con XV."
+    },
+    {
+        "id": 52,
+        "nameWeb": "APIs Gratuitas",
+        "link": "https://jsonplaceholder.typicode.com/",
+        "category": "Herramienta",
+        "subCategory": "BD",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "13 APIs gratis para desarrolladores frontend"
+    },
+    {
+        "id": 53,
+        "nameWeb": "Gran lista de API públicas gratuitas y abiertas",
+        "link": "https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/",
+        "category": "Herramienta",
+        "subCategory": "BD",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "No se necesita autenticación "
+    },
+    {
+        "id": 54,
+        "nameWeb": "CLIPPY - Creador formas CSS",
+        "link": "https://bennettfeely.com/clippy/",
+        "category": "Herramienta",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "clip-path la propiedad le permite crear formas complejas en CSS recortando un elemento a una forma básica ( círculo, elipse, polígono o inserto ), o a una fuente SVG."
+    },
+    {
+        "id": 55,
+        "nameWeb": "CODEPEN - Entorno de desarrollo de codigo y visualizacion JS + CSS + HTML ",
+        "link": "https://codepen.io/pen",
+        "category": "Herramienta",
+        "subCategory": "JavaScript",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "El mejor lugar para construir, probar y descubrir código frontal. CodePen es un entorno de desarrollo social para diseñadores y desarrolladores de front-end. Cree e implemente un sitio web, muestre su trabajo, cree casos de prueba para aprender y depurar, y encuentre inspiración."
+    },
+    {
+        "id": 56,
+        "nameWeb": "CanIuse ¿Puedo usar? ",
+        "link": "https://caniuse.com/",
+        "category": "Herramienta",
+        "subCategory": "HTML",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Me muestra que herramientas estan disponibles en los distintos navegadores, super util "
+    },
+    {
+        "id": 57,
+        "nameWeb": " RUN JS - Codigo en vivo",
+        "link": "https://caniuse.com/",
+        "category": "Herramienta",
+        "subCategory": "JavaScript",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Explore y experimente con JavaScript y TypeScript, visualice sus ideas y obtenga comentarios instantáneos a medida que escribe. "
+    },
+    {
+        "id": 58,
+        "nameWeb": " Compilador HTML A JSX",
+        "link": "https://magic.reactjs.net/htmltojsx.htm",
+        "category": "Herramienta",
+        "subCategory": "React",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Herramienta util para react, transforma codigo HTML a JSX para usar "
+    },
+    {
+        "id": 59,
+        "nameWeb": "FontAwsome - Fuente de iconos ",
+        "link": "https://fontawesome.com/v4/icons/",
+        "category": "Herramienta",
+        "subCategory": "HTML",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Miles de Iconos para usar"
+    },
+    {
+        "id": 60,
+        "nameWeb": "Animaciones de carga de pagina - CSS ",
+        "link": "https://loading.io/css/",
+        "category": "Herramienta",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Cargadores CSS puros, animaciones de carga CSS de código abierto dedicadas a la velocidad, la simplicidad y la facilidad de desarrollo."
+    },
+    {
+        "id": 61,
+        "nameWeb": "Formik - constructor de Formularios ",
+        "link": "https://formik.org/",
+        "category": "Herramienta",
+        "subCategory": "React",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Constructor de Formularios biblioteca de formularios de código abierto más popular del mundo para React and React Native."
+    },
+    {
+        "id": 62,
+        "nameWeb": "codesandbox - crear codigo util para React",
+        "link": "https://codesandbox.io/",
+        "category": "Herramienta",
+        "subCategory": "React",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Permite crear codigo en vivo y subirlo a la nube util para dar clases se puede usar para Javascript tambien"
+    },
+    {
+        "id": 63,
+        "nameWeb": "JSON BLOB - Simulador Cliente/Servidor",
+        "link": "https://jsonblob.com/",
+        "category": "Herramienta",
+        "subCategory": "BD",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "JSON Blob se creó para ayudar a paralelizar el desarrollo cliente/servidor . Las respuestas simuladas de JSON se pueden definir mediante el editor en línea y luego los clientes pueden usar la API JSON Blob para recuperar"
+    },
+    {
+        "id": 64,
+        "nameWeb": "GITPOD Editor - Trabajo en la nube con los repositorios de GitHub",
+        "link": "https://www.gitpod.io/",
+        "category": "Herramienta",
+        "subCategory": "GIT",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Plataforma que me permite trabajar con mi repopsitorio de Github desde la nube. Podemos editar nuestro codigo y guardarlo desde la nube, Ejecutar, compilar, etc"
+    },
+    {
+        "id": 65,
+        "nameWeb": "Readme Editor - Crea facil Readme para GitHub",
+        "link": "https://readme.so/es",
+        "category": "Herramienta",
+        "subCategory": "GIT",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Crea facil un readme para poner en Github, muestra como va quedando"
+    },
+    {
+        "id": 66,
+        "nameWeb": "Comandos Esenciales de GIT",
+        "link": "https://github.com/gdcodev/comandos-git",
+        "category": "Herramienta",
+        "subCategory": "GIT",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "comandos de GIT que les puede ser de mucha ayuda a la hora de organizar el código de trabajo, el historial y evolución del mismo."
+    }
+]
