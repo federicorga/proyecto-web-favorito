@@ -601,5 +601,50 @@
         "subCategory": "GIT",
         "imgWeb": "http://www.google.com/s2/favicons?domain=",
         "description": "comandos de GIT que les puede ser de mucha ayuda a la hora de organizar el código de trabajo, el historial y evolución del mismo."
+    },
+    {
+        "id": 67,
+        "nameWeb": "Transition.css",
+        "link": "https://www.transition.style/#in:square:hesitate",
+        "category": "Herramienta",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Esta herramienta te va a ayudar con su recopilación de transiciones a darle un estilo mucho mas personalizado, solo con instalarla basta."
+    },
+    {
+        "id": 68,
+        "nameWeb": "box-shadow.css",
+        "link": "https://box-shadow.dev/",
+        "category": "Herramienta",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Con esta aplicación vas a poder personalizar además de visualizar lo que vas haciendo, tiene sliders para poder manejar todas las funciones que posee."
+    },
+    {
+        "id": 69,
+        "nameWeb": "CSS grid generator",
+        "link": "https://grid.layoutit.com/",
+        "category": "Herramienta",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Esta herramienta te va a facilitar la vida cuando quieras crear grillas, solo tienes que indicarle como la deseas y en la parte derecha de la pagina te va a generar el código CSS listo para usar."
+    },
+    {
+        "id": 70,
+        "nameWeb": "Flexbox generator",
+        "link": "https://the-echoplex.net/flexyboxes/",
+        "category": "Herramienta",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "Y si te resulta complicado flexbox, esta herramienta también va a facilitarte la vida. Al igual que la anterior, indica los valores que necesita y la misma te devuelve el código CSS listo para usar."
+    },
+    {
+        "id": 71,
+        "nameWeb": "Uiverseio.css",
+        "link": "https://uiverse.io/",
+        "category": "Herramienta",
+        "subCategory": "CSS",
+        "imgWeb": "http://www.google.com/s2/favicons?domain=",
+        "description": "te brinda un monton de elementos UI de etiquetas html con sus respectivos codigos css, solo tenes que elegir la que mas te guste y hacer copy paste."
     }
 ]
