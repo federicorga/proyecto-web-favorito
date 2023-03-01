@@ -312,7 +312,7 @@
         "category": "Herramienta",
         "subCategory": "CSS",
         "imgWeb": "http://www.google.com/s2/favicons?domain=",
-        "description": "Un enfoque para cargar elementos personalizados de carga perezosa"
+        "description": "Pagina de explicacion muy buena con codigo para css como box-sizing para iniciar un html"
     },
     {
         "id": 35,
@@ -470,7 +470,7 @@
     {
         "id": 52,
         "nameWeb": "APIs Gratuitas",
-        "link": "https://jsonplaceholder.typicode.com/",
+        "link": "https://platzi.com/blog/12-api-gratis-para-desarrolladores-frontend/",
         "category": "Herramienta",
         "subCategory": "BD",
         "imgWeb": "http://www.google.com/s2/favicons?domain=",

@@ -28,8 +28,9 @@ function renderCardModel(page) {
 
     const descriptionCard = document.getElementById(`descriptionCard${page.id}`);
 
-
+    
     card.addEventListener("mouseenter", () => {
+        
         descriptionCard.classList.toggle("desocultarText");
 
 
