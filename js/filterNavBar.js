@@ -15,6 +15,7 @@ function runFiltro() {
     filtro("btnTodo", "category")
     filtro("btnDocs", "category", "documentacion");
     filtro("btnHerra", "category", "herramienta")
+    filtro("btnHtml","subCategory","html")
     filtro("btnCss", "subCategory", "css");
     filtro("btnJs", "subCategory", "javaScript");
     filtro("btnReact", "subCategory", "React");

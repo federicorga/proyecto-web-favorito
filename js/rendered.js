@@ -52,8 +52,19 @@ function renderAllListArrayToCard(listArrayObject) {
 }
 
 
+function catPet(){
+const catPet=document.getElementById("catPet");
+const globoCats=document.getElementById("globoCats");
+catPet.addEventListener("click",()=>{
+    globoCats.classList.toggle("globoCat2");
+    setTimeout( function(){
+        globoCats.classList.toggle("globoCat2")
+    },2000)
+})
+}
 
 
+catPet();
 
 
 
