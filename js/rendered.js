@@ -73,7 +73,6 @@ texts.classList.add(`TextCat`)
 
 const random= generarNumeroAleatorio(1,6);
 
-console.log(random)
 
 if(random === 1){
 
