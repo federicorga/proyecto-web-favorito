@@ -21,7 +21,7 @@ html {
     box-sizing: inherit; }
 
 .bodyI {
-  background-color: #212121;
+  background: linear-gradient(15deg, #212121, #1d0844);
   background-repeat: repeat; }
 
 h1 {
@@ -103,10 +103,10 @@ h1 {
 
 .card {
   display: flex;
-  width: 30%;
+  width: 27%;
   margin-bottom: 10px;
   transition: all 0.5s ease-in-out;
-  max-height: 135px;
+  max-height: 8.5rem;
   background: linear-gradient(to right, #8e2de2, #4a00e0); }
   .card:hover {
     max-height: 10000px;
@@ -124,12 +124,12 @@ h1 {
   text-align: center;
   color: white !important; }
   .card-body h3 {
-    font-size: 1.2rem;
+    font-size: 1rem;
     position: relative;
     z-index: 4; }
   .card-body h4 {
     margin-top: 10px;
-    font-size: 1rem; }
+    font-size: 0.9rem; }
 
 .imgFavic {
   margin-top: 5px;
