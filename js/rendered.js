@@ -12,7 +12,7 @@ function renderCardModel(page) {
 
         <a href="${page.link}" class="linkCard" target= "_blank">
         <div class="card-img"> 
-        <img src="${page.imgWeb + page.link}" class="imgFavic"  alt="...">
+        <img src="http://www.google.com/s2/favicons?domain=${page.link}" class="imgFavic"  alt="...">
         </div>
         <div class="card-body">
           <h3>${page.nameWeb}</h3>
