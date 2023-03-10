@@ -24,6 +24,10 @@ html {
   background: linear-gradient(15deg, #212121, #1d0844);
   background-repeat: repeat; }
 
+footer {
+  height: 0;
+  min-height: 85; }
+
 .SectionLoader {
   position: fixed;
   background: white;
