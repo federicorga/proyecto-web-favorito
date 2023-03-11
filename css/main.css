@@ -551,7 +551,10 @@ h1 {
   cursor: pointer;
   right: 1.2rem;
   margin-top: 10px;
-  bottom: 100px; }
+  bottom: 100px;
+  transition: 0.5s ease-in-out;
+  opacity: 0;
+  overflow: hidden; }
 
 .desplazador a {
   text-decoration: none;

@@ -6,8 +6,12 @@
     right: 1.2rem;
     margin-top: 10px;
     bottom: 100px;
+    transition: 0.5s ease-in-out;
+    opacity: 0;
+    overflow: hidden;
   }
   
+ 
   .desplazador a {
     text-decoration: none;
     list-style: none;
@@ -26,6 +30,7 @@
     flex-direction: column;
     flex-wrap: wrap;
     z-index: 1000;
+    
   }
   
   .desplazador a:hover {

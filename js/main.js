@@ -1,9 +1,13 @@
 
+
+
+
 window.onload=function(){
-  var contenedor= document.getElementById('loader');
+  let contenedor= document.getElementById('loader');
   contenedor.style.transition='0.9s'
   contenedor.style.visibility= 'hidden';
   contenedor.style.opacity = '0';
+  contenedor.setAttribute('transition-style','out:wipe:top-right')
 }
 
 async function runApp() { //inicia la aplicacion con todos sus componentes
